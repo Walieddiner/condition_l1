@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1727278969 source:c:\users\ycode\desktop\conditions\c4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
